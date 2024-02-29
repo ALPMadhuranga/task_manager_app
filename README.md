@@ -1,28 +1,12 @@
-# Getting Started with Create React App
+# Task Manager App
+  Task manager app is an easy to use and it helps you stay organized and productive with a simple and instutive interface, you can deadlines, and track your progress.
+  
+### Getting Started with Create React App
 
-This project was bootstrapped with [Create React App]
+## Technologies
+  - React Js
+  - Tailwind Css
 
-## Available Scripts
+![01](https://github.com/ALPMadhuranga/task_manager_app/assets/71040816/e21d03f6-3a2f-46b0-a183-73aba30979b1)
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests]
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![02](https://github.com/ALPMadhuranga/task_manager_app/assets/71040816/1ec6c74a-88f8-4445-909d-461302661dcc)
