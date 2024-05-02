@@ -4,9 +4,23 @@
 ### Getting Started with Create React App
 
 ## Technologies
-  - React Js
-  - Tailwind Css
+- React: A JavaScript library for building user interfaces.
+- Tailwind CSS: A utility-first CSS framework for designing responsive and customizable UI components.
 
-![01](https://github.com/ALPMadhuranga/task_manager_app/assets/71040816/e21d03f6-3a2f-46b0-a183-73aba30979b1)
+### Install dependencies
+- Clone the repository: 
+```
+    git clone https://github.com/ALPMadhuranga/School-Management-App.git
+```
+- Install dependencies:
+```
+  npm install
+```
+    
+### Getting Started
 
-![02](https://github.com/ALPMadhuranga/task_manager_app/assets/71040816/1ec6c74a-88f8-4445-909d-461302661dcc)
+```bash
+   npm run start
+```
+
+- Access the application in your browser: http://localhost:3000
